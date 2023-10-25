@@ -1,0 +1,23 @@
+{
+  "kind": "singleType",
+  "collectionName": "footerrs",
+  "info": {
+    "singularName": "footerr",
+    "pluralName": "footerrs",
+    "displayName": "Footerr",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "links": {
+      "displayName": "link",
+      "type": "component",
+      "repeatable": true,
+      "pluginOptions": {},
+      "component": "footerr.link"
+    }
+  }
+}
